@@ -1,0 +1,45 @@
+#barra_inicial {
+  background-color: rgb(158, 158, 158);
+  width: 100%;
+  height: 120px;
+  color: aliceblue;
+}
+#barralateral {
+  background-color: rgb(80, 80, 80);
+  height: 1500px;
+  width: 15%;
+  float: left;
+}
+#texto_barra_inicial {
+  text-align: center;
+  line-height: 110px;
+}
+#central {
+  background-color: rgb(211, 210, 210);
+  height: 1500px;
+  width: 85%;
+  float: right;
+}
+#produto {
+  margin-left: 100px;
+  margin-bottom: 50px;
+}
+#text_categoria {
+  text-align: center;
+  color: white;
+}
+#text_lateral {
+  margin-left: 15%;
+  color: rgb(235, 231, 231);
+}
+#table1 {
+  margin-left: 120px;
+}
+#imagem_produto {
+  height: 100%;
+  width: 100%;
+}
+#produtos_central {
+
+  margin-left: 20%;
+}
